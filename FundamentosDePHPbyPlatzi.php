@@ -94,7 +94,7 @@ $Experiencia = [
         'Proyecto 2' => 'Gymmeter',
         'Proyecto 3' => 'ReconFace',
         'Proyecto 4' => 'GoMed Official Site',
-    ]
+    ],
     'Reseña' => 'Soy un ingeniero en electronica con experiencia en desarrollo de software y aplicaciones moviles, me gusta aprender y mejorar mis habilidades constantemente.'
 ]
 
